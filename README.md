@@ -5,4 +5,4 @@ Parameters extracted from the trained neural network
 * SIR system
 * Cart pole system
 
-After each hidden layer, the output should be functed by the PReLu function. Then, the lifting function for calculating the lifted state can be obtained.
+After each hidden layer, the output should be operated by the PReLu function. Then, the lifting function for calculating the lifted state can be obtained.
